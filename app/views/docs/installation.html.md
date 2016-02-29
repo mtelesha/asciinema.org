@@ -54,6 +54,19 @@ Packages:
     sudo apt-get update
     sudo apt-get install asciinema
 
+### OpenSUSE
+
+Leap 4.1
+
+    #  OCICLI https://software.opensuse.org/ymp/network/openSUSE_Leap_42.1/asciinema.ymp?base=openSUSE%3ALeap%3A42.1&query=asciinema
+OpenSUSE 13.2
+
+    # OCICLI https://software.opensuse.org/ymp/network/openSUSE_13.2/asciinema.ymp?base=openSUSE%3A13.2&query=asciinema
+    
+One Click Install for all supported versions
+
+    https://software.opensuse.org/package/asciinema?search_term=asciinema
+
 ### No package for your operating system?
 
 If you use other operating system and you can build a native package
